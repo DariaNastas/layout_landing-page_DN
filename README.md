@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+В цьому проєкті для бренду Nothing використовуються такі технології:
+
+1. HTML (Hypertext Markup Language) та CSS (Cascading Style Sheets) для структурування та стилізації сторінки.
+1. Використано Flex та Grid макети для розміщення елементів на сторінці.
+1. Стилі написано з використанням SCSS для полегшення організації та підтримки коду.
+1. Реалізовано анімування та трансформації елементів для покращення взаємодії з користувачем.
+1. У проекті дотримано методології BEM (Block-Element-Modifier), що дозволяє створювати зручну структуру класів для CSS.
+1. Сторінка є респонсивною, тобто автоматично підлаштовується під різні розміри екранів, включаючи телефони, планшети та комп'ютери.
+
+Посилання на макет:
+- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+
+DEMO LINK:
+- https://DariaNastas.github.io/layout_landing-page/
