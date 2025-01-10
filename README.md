@@ -1,3 +1,5 @@
+## Landing page
+
 В цьому проєкті для бренду Nothing використовуються такі технології:
 
 1. HTML (Hypertext Markup Language) та CSS (Cascading Style Sheets) для структурування та стилізації сторінки.
