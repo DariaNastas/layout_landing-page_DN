@@ -16,15 +16,15 @@ DEMO LINK:
 - https://DariaNastas.github.io/layout_landing-page/
 
 ## Download and Installation
-1. Fork the Repository
+Fork the Repository
 - Go to the original repository: **layout_landing-page_DN**
 - Click the Fork button in the top-right corner to create a copy in your GitHub account.
-1. Clone the Project
+Clone the Project
 - Once the fork is created, clone it to your local machine:
 *git clone https://github.com/YOUR_GITHUB_USERNAME/layout_landing-page_DN.git*
 - Navigate to the project folder:
 *cd layout_landing-page_DN*
-1. Install Dependencies
+Install Dependencies
 - Before running the project, install all required dependencies:
 *npm install*
 
@@ -39,8 +39,8 @@ This will open the project in your browser at **http://localhost:8080/**
 ### Editing the Project
 1. To start editing and adapting the content:
 Open a new terminal:  
-Windows: Press *Ctrl + Shift + \*  
-MacOS: Press *Cmd + Shift + \*
+Windows: Press Ctrl + Shift + \  
+MacOS: Press Cmd + Shift + \  
 1. Create a new branch for your changes:
 *git checkout -b develop*
 1. Make changes in index.html, styles.scss, or other files inside the src folder.
