@@ -1,19 +1,39 @@
-## Landing page
+# Landing Page for Nothing  
 
-This project for the Nothing brand uses the following technologies:
+![Project Screenshot](https://images.app.goo.gl/pbVsfEXfybkVTDXLA)  
 
-1. HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) for structuring and styling the page.
-1. Flexbox and Grid layouts are used for element positioning on the page.
-1. Styles are written using SCSS to improve code organization and maintainability.
-1. Animations and transformations are implemented to enhance user interaction.
-1. The BEM (Block-Element-Modifier) methodology ensures a structured and maintainable CSS class system.
-1. The page is responsive and automatically adapts to different screen sizes, including mobile phones, tablets, and desktops.
+## 🌟 About the Project  
 
-Design Reference:
+This is a modern, stylish, and fully responsive **Landing Page** for the **Nothing** brand.  
+Built with the latest web technologies, it ensures a **seamless experience** across all devices.  
+
+## 🛠️ Technologies Used  
+
+| Technology  | Purpose |
+|------------|---------|
+| ![HTML](https://img.shields.io/badge/-HTML-orange) | Page structure |
+| ![CSS](https://img.shields.io/badge/-CSS-blue) | Styling |
+| ![SCSS](https://img.shields.io/badge/-SCSS-pink) | Improved styling structure |
+| ![Flexbox](https://img.shields.io/badge/-Flexbox-red) | Layout positioning |
+| ![Grid](https://img.shields.io/badge/-Grid-green) | Advanced layout system |
+| ![BEM](https://img.shields.io/badge/-BEM-purple) | CSS methodology |
+
+## ✨ Features  
+
+✔ **Fully Responsive** – Adapts to **mobile, tablet, and desktop**  
+✔ **SCSS-powered styling** for better maintainability  
+✔ **BEM methodology** for structured class naming  
+✔ **Animations & transformations** for smooth user interaction  
+
+## Demo Preview  
+*Check out how the site looks in action!* - The page is responsive and automatically adapts to different screen sizes, including mobile phones, tablets, and desktops.
+**[Live Demo](https://DariaNastas.github.io/layout_landing-page/)**  
+
+## Design Reference:
 - [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
 
-DEMO LINK:
-- https://DariaNastas.github.io/layout_landing-page/
+
+
 
 ## Download and Installation
 Fork the Repository
