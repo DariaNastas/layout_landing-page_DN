@@ -23,9 +23,9 @@ Clone the Project
 - Once the fork is created, clone it to your local machine:
 *git clone https://github.com/YOUR_GITHUB_USERNAME/layout_landing-page_DN.git*
 - Navigate to the project folder:
-*cd layout_landing-page_DN*
-Install Dependencies
-- Before running the project, install all required dependencies:
+*cd layout_landing-page_DN*  
+Install Dependencies  
+- Before running the project, install all required dependencies:  
 *npm install*
 
 ## Viewing and Editing
