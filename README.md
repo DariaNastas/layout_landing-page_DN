@@ -55,3 +55,12 @@ MacOS: Press Cmd + Shift + \
 - `npm run test` – Executes unit tests using a testing framework like Jest or Mocha.  
 
 **Note:** To use this build environment, You must have `npm` installed.  
+
+## Prerequisites
+To use this build environment, ensure you have:
+Node.js v16+ installed (Download Node.js).
+npm (Node Package Manager) installed (comes with Node.js by default).
+
+***Following these instructions, you can successfully set up, run, and develop this landing page project***
+
+
