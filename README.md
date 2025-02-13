@@ -1,13 +1,12 @@
-# Landing Page for Nothing  
-
-![Project Screenshot](https://images.app.goo.gl/pbVsfEXfybkVTDXLA)  
-
-## 🌟 About the Project  
+# Landing Page for Nothing 
+ <img src="https://fashionsnap-assets.com/asset/format=auto,width=600/article/images/2022/07/n-202207204.jpg" alt="Project Screenshot" width="300"> 
+ 
+## About the Project  
 
 This is a modern, stylish, and fully responsive **Landing Page** for the **Nothing** brand.  
 Built with the latest web technologies, it ensures a **seamless experience** across all devices.  
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 | Technology  | Purpose |
 |------------|---------|
@@ -18,7 +17,7 @@ Built with the latest web technologies, it ensures a **seamless experience** acr
 | ![Grid](https://img.shields.io/badge/-Grid-green) | Advanced layout system |
 | ![BEM](https://img.shields.io/badge/-BEM-purple) | CSS methodology |
 
-## ✨ Features  
+## Features  
 
 ✔ **Fully Responsive** – Adapts to **mobile, tablet, and desktop**  
 ✔ **SCSS-powered styling** for better maintainability  
@@ -31,8 +30,6 @@ Built with the latest web technologies, it ensures a **seamless experience** acr
 
 ## Design Reference:
 - [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
-
-
 
 
 ## Download and Installation
@@ -76,7 +73,7 @@ MacOS: Press Cmd + Shift + \
 
 **Note:** To use this build environment, You must have `npm` installed.  
 
-## Prerequisites
+## ❗️ Prerequisites
 To use this build environment, ensure you have:
 Node.js v16+ installed (Download Node.js).
 npm (Node Package Manager) installed (comes with Node.js by default).
